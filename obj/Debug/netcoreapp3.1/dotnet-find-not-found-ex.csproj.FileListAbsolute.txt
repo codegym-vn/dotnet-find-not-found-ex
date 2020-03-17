@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-find-not-found-ex\bin\Debug\netcoreapp3.1\dotnet-find-not-found-ex.exe
+D:\CodeGym\Practice\dotnet-find-not-found-ex\bin\Debug\netcoreapp3.1\dotnet-find-not-found-ex.deps.json
+D:\CodeGym\Practice\dotnet-find-not-found-ex\bin\Debug\netcoreapp3.1\dotnet-find-not-found-ex.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-find-not-found-ex\bin\Debug\netcoreapp3.1\dotnet-find-not-found-ex.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-find-not-found-ex\bin\Debug\netcoreapp3.1\dotnet-find-not-found-ex.dll
+D:\CodeGym\Practice\dotnet-find-not-found-ex\bin\Debug\netcoreapp3.1\dotnet-find-not-found-ex.pdb
+D:\CodeGym\Practice\dotnet-find-not-found-ex\obj\Debug\netcoreapp3.1\dotnet-find-not-found-ex.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-find-not-found-ex\obj\Debug\netcoreapp3.1\dotnet-find-not-found-ex.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-find-not-found-ex\obj\Debug\netcoreapp3.1\dotnet-find-not-found-ex.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-find-not-found-ex\obj\Debug\netcoreapp3.1\dotnet-find-not-found-ex.dll
+D:\CodeGym\Practice\dotnet-find-not-found-ex\obj\Debug\netcoreapp3.1\dotnet-find-not-found-ex.pdb

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace dotnet_find_not_found_ex
+namespace CodeGym
 {
     class Program
     {
